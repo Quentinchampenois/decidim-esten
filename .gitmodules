@@ -1,0 +1,3 @@
+[submodule "decidim-app"]
+	path = decidim-app
+	url = git@github.com:OpenSourcePolitics/decidim-app.git
